@@ -8,6 +8,8 @@
 *.run.bbl
 *.blg
 *.toc
+*.snm
+*.nav
 
 # example files written in LaTeX
 /lab-report.pdf

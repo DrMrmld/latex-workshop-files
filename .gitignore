@@ -1,0 +1,16 @@
+# tex auxiliary files
+*.aux
+*.log
+*.bcf
+*.out
+*.run.xml
+*.bbl
+*.run.bbl
+*.blg
+*.toc
+
+# example files written in LaTeX
+/lab-report.pdf
+/homework.pdf
+/recommendation-report.pdf
+/review-paper.pdf

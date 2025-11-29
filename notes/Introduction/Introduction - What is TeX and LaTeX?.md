@@ -24,7 +24,7 @@ I can't think of any limitations of what you can create with $\LaTeX$. You can w
 
 $\LaTeX$ is also a good choice for making a resume or a CV because it lets you have an appealing design while keeping the text in the document readable and accessible for both people and machines.
 
-Great thing is that you don't have to start your document from scratch every time. There is a huge number of templates available for almost anything you will need to write. You can check out the [Overleaf's template gallery](https://www.overleaf.com/latex/templates), for instance. Personally, I liked [this homework template](https://www.overleaf.com/latex/templates/a-soft-template-for-homework-solutions/gsbwqcqkyyzt) and [this internship report template](https://www.overleaf.com/latex/templates/medtech-int101-slash-102-internship-report-template/nfthzgycqbxn) a lot. You can also build upon these templates and improve/personalize them, but make sure you always check the licenses.
+Great thing is that you don't have to start your document from scratch every time. There is a huge number of templates available for almost anything you will need to write. You can check out [Overleaf's template gallery](https://www.overleaf.com/latex/templates), for instance. Personally, I liked [this homework template](https://www.overleaf.com/latex/templates/a-soft-template-for-homework-solutions/gsbwqcqkyyzt) and [this internship report template](https://www.overleaf.com/latex/templates/medtech-int101-slash-102-internship-report-template/nfthzgycqbxn) a lot. You can also build upon these templates and improve/personalize them, but make sure you always check the licenses.
 
 ---
 

@@ -19,3 +19,6 @@
 
 # obisidian configuration files
 .obsidian/
+
+# quartz files
+quartz/

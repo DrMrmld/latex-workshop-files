@@ -1,0 +1,3 @@
+During the actual workshop, there wasn't enough time left for a comprehensive review of how you can make presentations using $\LaTeX$. However, if you went through or know all the content of [[Example 1 - Creating Simple Documents]], you are already familiar with all the concepts needed to make presentations - it is exactly the same $\LaTeX$, but with another document class (`beamer`), which offers other environments and commands.
+
+Here is a comprehensive [guide to `beamer` presentations](https://www.overleaf.com/learn/latex/Beamer) on Overleaf Learn.

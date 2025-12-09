@@ -32,6 +32,49 @@ You can also see that there is a "1" at the bottom of the page. This is because 
 
 ![[Pasted image 20251129202404.png]]
 
+## Comments
+
+Comments are parts of code that will be completely ignored by the compiler. You can add them using the `%` sign. If you want to put the "%" sign as text, you should put `\%` so that $\LaTeX$ doesn't interpret it as the start of a comment.
+
+```latex
+\documentclass{article}
+
+% here is the start of the document
+\begin{document}
+
+Hello World % these words won't be printed
+			% on the document because they are commented out
+
+\end{document}
+```
+
+## End of Line
+
+Also, $\LaTeX$ interprets adjacent lines as a single paragraph. Therefore, writing
+
+```latex
+\begin{document}
+
+Hello
+World
+
+\end{document}
+```
+
+doesn't change the output, but writing
+
+```latex
+\begin{document}
+
+Hello
+
+World
+
+\end{document}
+```
+
+puts the "World" on a separate line.
+
 ---
 
 Back to [[Example 1 - Creating Simple Documents]]

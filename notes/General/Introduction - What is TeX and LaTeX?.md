@@ -4,6 +4,8 @@
 
 Many people erroneously pronounce "$\LaTeX$" as the rubber material latex, but the "X" in both "$\TeX$" and "$\LaTeX$" is not the English letter "x" but the Greek letter chi ($\chi$). This subtle detail and its symbolism are greatly explained in the first chapter of Knuth's book titled "The $\TeX$book":
 
+> [!quote]
+> 
 > English words like ‘technology’ stem from a Greek root beginning with the letters $\tau \epsilon \chi \dots$; and this same Greek word means art as well as technology. Hence the name $\TeX$, which is an uppercase form of $\tau \epsilon \chi$.
 > 
 > Insiders pronounce the $\chi$ of $\TeX$ as a Greek chi, not as an ‘x’, so that $\TeX$ rhymes with the word blecchhh. It’s the ‘ch’ sound in Scottish words like *loch* or German words like *ach*; it’s a Spanish ‘j’ and a Russian ‘kh’. When you say it correctly to your computer, the terminal may become slightly moist.
@@ -14,7 +16,7 @@ From this, we can also infer that being able to use $\LaTeX$ doesn't mean you sh
 
 ## What is $\LaTeX$?
 
-[LaTeX](https://en.wikipedia.org/wiki/LaTeX) is an extension of $\TeX$. It contains many predefined commands and environments (we will learn more about them later) that control the layout of the document. This allows one to focus on the content of one's writing, while letting $\LaTeX$ do its job of making the document look neat. Nowadays, practically no one uses plain $\TeX$.
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX) is an extension ("macro package") of $\TeX$. It contains many predefined commands and environments (we will learn more about them later) that control the layout of the document. This allows one to focus on the content of one's writing, while letting $\LaTeX$ do its job of making the document look neat. Nowadays, practically no one uses plain $\TeX$.
 
 There are also other extensions as [ConTeXt](https://en.wikipedia.org/wiki/ConTeXt) and [AMS-TeX](https://en.wikipedia.org/wiki/AMS-LaTeX), but $\LaTeX$ is the most popular one.
 

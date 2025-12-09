@@ -4,6 +4,14 @@ In this example, you'll gain enough knowledge to be able to write most of your d
 
 For easier navigation, everything is split into several smaller notes.
 
+> [!tip]
+> 
+> You may also encounter blocks of this type. Know that they'll contain useful tips for you.
+
+> [!info]
+> 
+> Blocks of this type will contain somewhat advanced information. During your first reading, you can skip them or read them without trying to fully understand and/or memorize what's written to avoid overwhelming yourself.
+
 ## Compiling $\LaTeX$ Documents
 
 In this section, you will familiarize yourself with two ways you can compile LaTeX documents along with their pros/cons.
@@ -21,5 +29,53 @@ In this section, you will create your first Overleaf project, which we will deve
 In this section, you will learn the structure of $\LaTeX$ documents and compile your first document.
 
 [[Hello World]]
+
+## More Commands and Importing Packages
+
+In this section, you will
+
+- explore more commands,
+- learn how to
+	- import packages,
+	- make a title,
+	- create the table of contents, and
+	- change the typeface.
+
+[[More Commands and Importing Packages]]
+
+## Working with Text and Graphics
+
+In this section, you will learn how to
+
+- insert images,
+- create hyperlinks,
+- stylize text, and
+- make lists.
+
+[[Working with Text and Graphics]]
+
+## Working on Large Projects
+
+In this section, you will learn how you can clean up your code and make it easier to navigate and, as a result, collaborate.
+
+[[Working on Large Projects]]
+
+## Math Equations
+
+In this section... no need to explain.
+
+[[Math Equations]]
+
+## Making Tables
+
+In this section, you will learn how to make pretty tables.
+
+[[Making Tables]]
+
+## Managing References
+
+This is the final section of this part, in which you will learn how to manage references.
+
+[[Managing References]]
 
 [^1]: In the general sense of the word.

@@ -143,3 +143,7 @@ And just to give you an idea of what you can do, I include examples from my own 
 ## Fixing the Typeface Issue
 
 The best way you can fix the issue we've encountered in the beginning, is to use a typeface that supports math. Using the default Computer Modern typeface is fine - I actually find it very appealing. But if you want to use something else, you can find what you need by clicking "Fonts with math support" on the main page of the [LaTeX Font Catalogue](https://tug.org/FontCatalogue/). Luckily, there is a [version of TeX Gyre Schola](https://tug.org/FontCatalogue/scholax/) that supports math.
+
+---
+
+Back to [[Example 1 - Creating Simple Documents]]

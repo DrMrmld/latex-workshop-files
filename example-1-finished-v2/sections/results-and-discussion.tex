@@ -1,0 +1,33 @@
+\section{Results and Discussion}
+
+\lipsum[9]
+
+\begin{table}[htbp]
+    \centering
+	\begin{tabular}{lw{c}{5cm}r}
+		\toprule
+			\textbf{Header 1} & \textbf{Header 2} & \textbf{Header 3} \\
+		\midrule
+			Item 1 & Item 2 & Item 3 \\
+			Item 4 & Item 5 & Item 6 \\
+		\bottomrule
+	\end{tabular}
+	\caption{Example table.}
+    \label{tab:example}
+\end{table}
+
+\noindent
+\autoref{tab:example} is an example table. And \autoref{tab:long} is a longer table.
+
+\begin{table}[htbp]
+    \small\centering
+	\begin{tabular}{l*{5}{|l}}
+		\textbf{Header 1} & \textbf{Header 2} & \textbf{Header 3}  & \textbf{Header 4} & \textbf{Header 5}  & \textbf{Header 6} \\
+    \hline
+		Item 1 & Item 2 & Item 3 & Item 4 & Item 5 & Item 6 \\
+    \hline
+		Item 8 & Item 9 & Item 10 & Item 11 & Item 12 & Item 13 \\
+	\end{tabular}
+	\caption{Longer table.}
+	\label{tab:long}
+\end{table}
